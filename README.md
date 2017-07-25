@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Loreto V. Gutierrez Jr.
 
-I like to:
+I like to: design and code for the web.
 
-I'm learning:
+I'm learning: HTML, CSS, JAVASCRIPT & GIT.
 
 ```
 
